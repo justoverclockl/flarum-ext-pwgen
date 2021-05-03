@@ -4,6 +4,9 @@
 
 A [Flarum](http://flarum.org) extension. Add a secure password generator to Signup Modal
 
+### Usage
+Before using this extension, remember to put the "password lenght" value through extension settings.
+
 ### Installation
 
 Install with composer:
