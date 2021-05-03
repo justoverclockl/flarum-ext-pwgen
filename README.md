@@ -1,4 +1,4 @@
-![Immagine-2021-05-03-122110](https://user-images.githubusercontent.com/79002016/116865805-a30b2880-ac0a-11eb-84f7-0d99a66661f6.png)
+![Immagine-2021-05-03-124005](https://user-images.githubusercontent.com/79002016/116867831-0480c680-ac0e-11eb-8b62-5b9bd3fa9ec7.png)
 # Pwgen
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/justoverclock/flarum-ext-pwgen.svg)](https://packagist.org/packages/justoverclock/flarum-ext-pwgen) [![Total Downloads](https://img.shields.io/packagist/dt/justoverclock/flarum-ext-pwgen.svg)](https://packagist.org/packages/justoverclock/flarum-ext-pwgen)
