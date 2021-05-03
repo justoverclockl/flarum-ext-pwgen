@@ -1,0 +1,42 @@
+{
+  "name": "justoverclock/flarum-ext-pwgen",
+  "description": "Add a secure password generator to Signup Modal",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.16"
+  },
+  "require-dev": {
+    "flarum/testing": "^0.1.0-beta.16"
+  },
+  "authors": [
+    {
+      "name": "Marco Colia",
+      "email": "info@flarum.it",
+      "role": "Developer",
+      "homepage": "https://flarum.it"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Justoverclock\\Pwgen\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Pwgen",
+      "category": "fas fa-shield-alt",
+      "icon": {
+        "name": "red",
+        "backgroundColor": "white",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
