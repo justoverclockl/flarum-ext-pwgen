@@ -28,7 +28,7 @@ extend(SignUpModal.prototype, 'oncreate', function () {
   button2.addEventListener('click', printPassword);
 
   function password() {
-    var length = app.forum.attribute('pwlenght');
+    var length = app.forum.attribute('pwlenght') || '10';
     var charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@!?=.#$%';
     var retVal = '';
     for (var i = 0, n = charset.length; i < length; ++i) {
