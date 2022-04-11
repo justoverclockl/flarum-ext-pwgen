@@ -9,10 +9,7 @@
   "type": "flarum-extension",
   "license": "MIT",
   "require": {
-    "flarum/core": "^1.0.0"
-  },
-  "require-dev": {
-    "flarum/testing": "^1.0.0"
+    "flarum/core": "^1.2.0"
   },
   "authors": [
     {
@@ -30,11 +27,11 @@
   "extra": {
     "flarum-extension": {
       "title": "Pwgen",
-      "category": "fas fa-shield-alt",
+      "category": "features",
       "icon": {
-        "name": "red",
-        "backgroundColor": "white",
-        "color": ""
+        "name": "fas fa-shield-alt",
+        "backgroundColor": "red",
+        "color": "white"
       }
     },
     "flagrow": {
